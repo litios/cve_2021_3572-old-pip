@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='cve_2021_3572',
-    version='1.0',
+    version='1.2',
     description='Test CVE-2021-3572 in old pip versions',
     url='https://github.com/litios/cve_2021_3572-old-pip',
     author='David Fernandez',
